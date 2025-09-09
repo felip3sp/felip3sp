@@ -16,8 +16,15 @@
   <img src="https://img.shields.io/badge/Agile-FF007F?style=for-the-badge&logo=agile&logoColor=white"/>
 </p>
 
-## 📋Sobre mim
+## 👋 Sobre mim
   Sou um profissional em transição para a área de Qualidade e Testes de Software (𝐐𝐀), dedicado ao aprendizado contínuo e à construção de uma carreira sólida na área. Atualmente, estou desenvolvendo conhecimentos em testes manuais, automatizados, exploratórios e regressivos, além da documentação de planos de teste, cenários, casos de teste e relatórios. Estou em busca da minha primeira oportunidade profissional em QA, onde poderei aplicar minhas habilidades, evoluir junto com a equipe e contribuir para a entrega de software com qualidade.
+
+  💡 **Especialidades:**
+- ✅ Automação de Testes E2E com **Cypress**
+- ✅ Testes de API com **Postman**
+- ✅ **Web Automation** para ganho de produtividade
+- ✅ Colaboração em times **Ágeis** com **Scrum**
+- ✅ Comprometido com a **Qualidade de Software**
 
 
 ## 🌎 Encontre-me na Web

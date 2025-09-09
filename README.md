@@ -8,6 +8,13 @@
   <br>
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web-Automation-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile-FF007F?style=for-the-badge&logo=agile&logoColor=white"/>
+</p>
 
 ## 📋Sobre mim
   Sou um profissional em transição para a área de Qualidade e Testes de Software (𝐐𝐀), dedicado ao aprendizado contínuo e à construção de uma carreira sólida na área. Atualmente, estou desenvolvendo conhecimentos em testes manuais, automatizados, exploratórios e regressivos, além da documentação de planos de teste, cenários, casos de teste e relatórios. Estou em busca da minha primeira oportunidade profissional em QA, onde poderei aplicar minhas habilidades, evoluir junto com a equipe e contribuir para a entrega de software com qualidade.
